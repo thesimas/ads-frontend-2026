@@ -13,3 +13,5 @@
 - Aula 04/08/2026 - Apresentação das Tags: 'img', 'a' - 'target'; 
 - Aula 14/08/2026 - Apresentação das Tags: 'table' e 'audio'; 
 - Aula 18/08/2026 - Apresentação das Tags: 'form'; 
+- Aula 21/08/2026 - Apresentação inicial de CSS;
+- Aula 25/08/2026 - Apresentação sobre dimensão dos elementos em CSS;
