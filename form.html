@@ -15,6 +15,9 @@
                 <li>
                     <a href="index.html">Voltar</a>
                 </li>
+                <li>
+                    <button type="button" id="listar-livros">Listar Livros</button>
+                </li>
             </ul>
         </nav>
     </header>
@@ -32,11 +35,12 @@
                 </select>
                 <br>
                 <label for="nota">Dê uma nota para o seu livro: </label>
-                <input type="number" min="0" max="5" id="nota">
+                <input type="number" min="0" max="10" id="nota" step="0.01">
                 <br>
                 <button type="submit" id="button-submit">Enviar Formulário</button>
             </form>
         </div>
+        <div id="lista-livros"></div>
     </main>
     <footer>
         <p>
