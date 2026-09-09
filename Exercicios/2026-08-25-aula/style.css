@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: beige;
+    box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+p {
+  background-color: lightblue;
+  border: 1px solid rgb(128, 22, 22);
+  padding: 10px;
+}
+
+label {
+  width: 500px;
+  color: blue;
+}
+
+input {
+  width: 200px;
+  border: 1px solid blue;
+}
+
+header {
+    padding: 5px;
+    border: 5px solid azure;
+}
+
+
+.conteudo {
+    flex: 1;
+    padding: 5px;
+    border: 5px solid azure;
+}
+
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+footer p {
+  font-style: italic;
+  text-align: center;
+  padding: 10px;
+}
+
+
+#form-pai {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+#formulario-livro {
+  padding: 10px;
+  border: 1px solid whitesmoke;
+  background-color: cadetblue;
+  border-radius: 10px;
+  width: 700px;
+}
+
+#formulario-livro label {
+  text-align: start;
+  padding: 2px;
+}
+
+#button-submit {
+  padding: 5px;
+  margin: auto;
+  display: block;
+}
+
+#destaque {
+  font-weight: bold;
+}
+
+#disciplinas {
+  color: rgb(128, 22, 22);
+}
