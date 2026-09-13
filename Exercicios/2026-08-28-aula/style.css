@@ -87,12 +87,3 @@ footer p {
 #disciplinas {
   color: rgb(128, 22, 22);
 }
-
-#caixa-sagas {
-  background-color: rgba(69, 127, 160, 0.455);
-  border: 2px solid white;
-  padding: 20px;
-  margin: 30px;
-  height: 300px;
-  overflow: inherit;
-}
